@@ -1,0 +1,8 @@
+name: HotbarPets
+version: ${project.version}
+author: TheBusyBiscuit
+depend: [Slimefun]
+
+api-version: "1.21"
+
+main: com.github.drakescraft_labs.hotbarpets.HotbarPets
